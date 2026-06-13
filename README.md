@@ -12,6 +12,9 @@
   <a href="mailto:gabriel.mimouni@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://unpseudototalementnormal.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/>
+  </a>
 </p>
 
 ---
@@ -48,8 +51,8 @@ Work-study software dev student. I build **C# / .NET backends** (clean REST APIs
 🇫🇷 Petite API e-commerce centrée sur une structuration propre : architecture **Controller → Service → Repository**, injection de dépendances, DTOs, Unit of Work (transactions atomiques), gestion d'erreurs `ProblemDetails`, tests unitaires (xUnit + Moq), Docker.
 🇬🇧 Small e-commerce API focused on clean structure: layered architecture, DI, DTOs, Unit of Work, standardized error handling, unit tests, Docker.
 
-> 🎮 Côté game dev, plusieurs projets Unity / Godot (dont des game jams) — certains encore privés, ouverts au fil de l'eau.
-> 🎮 On the game dev side, several Unity / Godot projects (incl. game jams) — some still private, opened over time.
+> 🎮 Côté game dev : plusieurs projets Unity / Godot (dont des game jams) — jouables sur **[itch.io](https://unpseudototalementnormal.itch.io/)**. Certains repos encore privés, ouverts au fil de l'eau.
+> 🎮 Game dev : several Unity / Godot projects (incl. game jams) — playable on **[itch.io](https://unpseudototalementnormal.itch.io/)**. Some repos still private, opened over time.
 
 ---
 
